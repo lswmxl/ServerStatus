@@ -1,7 +1,7 @@
 version: "3"
 services:
   sss:
-    image: cppla/serverstatus:latest
+    image: cppla/serverstatus:1.1.5
     container_name: sss
     restart: unless-stopped
     volumes:

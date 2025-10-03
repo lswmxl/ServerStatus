@@ -12,7 +12,7 @@ import subprocess
 import uuid
 
 CONFIG_FILE = "config.json"
-GITHUB_RAW_URL = "https://5th.pp.ua/https://raw.githubusercontent.com/lidalao/ServerStatus/master"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/lidalao/ServerStatus/master"
 IP_URL = "https://api.ipify.org"
 
 jjs = {}
